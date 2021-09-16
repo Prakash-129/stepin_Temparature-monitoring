@@ -1,2 +1,3 @@
-# stepin_Temparature-monitoring
-      
+# Embedded-project
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/68b7654290c94bf7b73780483715edd8)](https://www.codacy.com/gh/Prakash-129/Embedded-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Vinay4119/Embedded-C&amp;utm_campaign=Badge_Grade)
+[![Cppcheck-actions](https://github.com/Prakash-129/Embedded-C/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakash-129/Embedded-C/actions/workflows/cppcheck.yml)
