@@ -4,14 +4,13 @@
 # stepin_Temperature_monitoring
 
 
-      AUTOMATIC SEAT HEAT CONTROLLER   WITH TEMPERATURE:
-     
+  
                   
                     In this, the controller aims at control the temperature in the car. Firstly, if a person is seated in a car then the Button sensor will be activated. If a person is not seated, then the Button sensor will not be activated. When the Button sensor is activated then automatically heater sensor will be activated. Then temperature sensor monitors the temperature and sends analog value to atmega328 microcontroller.
 
 
-[![CI](https://github.com/Prakash-129/stepin-heat-Controller/actions/workflows/compile.yml/badge.svg)](https://github.com/Prakash-129/stepin-heat-Controller/actions/workflows/compile.yml)
+[![CI](https://github.com/Prakash-129/Temperature_monitoring/actions/workflows/compile.yml/badge.svg)](https://github.com/Prakash-129/Temperature_monitoring/actions/workflows/compile.yml)
 
-[![Cppcheck-actions](https://github.com/Prakash-129/stepin-heat-Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakash-129/stepin-heat-Controller/actions/workflows/cppcheck.yml)
+[![Cppcheck-actions](https://github.com/Prakash-129/Temperature_monitoring/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakash-129/Temperature_monitoring/actions/workflows/cppcheck.yml)
 
-[![Valgrind](https://github.com/Prakash-129a/stepin-heat-Controller/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Prakash-129/stepin-heat-Controller/actions/workflows/valgrind.yml)
+[![Valgrind](https://github.com/Prakash-129a/Temperature_monitoring/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Prakash-129/Temperature_monitoring/actions/workflows/valgrind.yml)
