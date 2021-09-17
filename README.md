@@ -9,4 +9,4 @@
 
 [![Cppcheck-actions](https://github.com/Prakash-129/stepin_Temparature-monitoring/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Prakash-129/stepin_Temparature-monitoring/actions/workflows/cppcheck.yml)
 
-[![Valgrind](https://github.com/Prakash-129/stepin_Temperature-monitoring/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Prakash-129/stepin_Temperature-monitoring/actions/workflows/valgrind.yml)
+[![Valgrind](https://github.com/Prakash-129/stepin_Temparature-monitoring/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Prakash-129/stepin_Temparature-monitoring/actions/workflows/valgrind.yml)
